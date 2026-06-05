@@ -1,0 +1,38 @@
+
+Conditional Statement:
+
+Conditional statement is used to execute a set of logic when specific condition met
+
+if is a keyword.
+Keywords are the words which defination already known by interpreter
+
+Type of conditional Statement
+1. if statement
+2. if else statement
+3. if elif statement
+4. nested if else
+
+1. if statement:
+
+if statement is used to execute set of logic when condition is true
+
+Syntax:
+
+if condition:
+    set of logic
+
+---------------------------------------------------------------------------------------------------------
+
+2. if else statement:
+
+if else statement is used set of statement if condition is true also set of another statement when condition is false
+
+Syntax:
+
+if condition:
+    set of logic when condition is true
+else:
+    set of logic when condition is false
+
+
+
