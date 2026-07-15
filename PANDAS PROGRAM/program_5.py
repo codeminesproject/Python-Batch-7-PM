@@ -9,6 +9,7 @@ df = pd.read_excel("C:\\CodeMines\\files\\CodeMines\\student_subject_marks.xlsx"
 print(df)
 
 df["Marks Obtained"] = df["Maths"] + df["English"] + df["Science"]
+df["Percentage"] = (df["Marks Obtained"]/300)*100
 
 print(df)
 
