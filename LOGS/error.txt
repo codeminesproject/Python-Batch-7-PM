@@ -1,0 +1,9 @@
+----------------------------------------------------
+Error Line: 9
+Error Message: division by zero
+Error Type: ZeroDivisionError
+----------------------------------------------------------------------------------------------------------
+Error Line: 4
+Error Message: invalid literal for int() with base 10: '90.98'
+Error Type: ValueError
+------------------------------------------------------
